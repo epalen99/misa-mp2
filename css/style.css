@@ -1,0 +1,30 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ */
+
+h1 {
+	font-family: "Prata", serif;
+	font-size: 45pt;
+	margin: 0px;
+	text-align: center;
+}
+
+#question {
+	font-family: "Josefin Slab", serif;
+	font-size: 15pt;
+}
+
+body {
+	text-align: center;
+}
+
+button {
+	margin: 5pt;
+}
+
+img {
+	width: 50%;
+}
